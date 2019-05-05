@@ -1,40 +1,30 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Daun Joung",
+    "occupation":"iOS Application Developer",
+    "description":"Client-side developer, especially iOS and Android application development. I believe not the all developers change the world, but can change the near me.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Programming skills and foreign language study, I believe I can have various experiences if I have two skills. By developing applications for mobile devices, can solve the problem near us and listen to various people's thoughts. In addition, by studying human languages, it gives me more chance to communicate with others. To experience the world more, I'm keep studying.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "ICo1022@gmail.com",
+    "phone": "+82 10-8485-4396",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Anyangro-13beongil",
+      "city":"Gyeonggi-do, Anyang-si",
+      "state":"South Korea",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/ICo.Ig",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/daun-joung-ab7131139/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,13 +34,8 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/ICoi",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,94 +43,105 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Inha University",
+        "degree":"Bachelor's degree of Computer Science and Information Engineering",
+        "graduated":"Feb 2015",
+        "description":"Inha University is in Incheon, South Korea, known traditionally for research and education in the engineering and physical sciences. The department of Computer Science and Information Engineering (shortly, CSE) has course like Object-oriented programming, Asembly-language, Databases, Complier, Network programming, Computer graphics and etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Institut Superieur d'Electronique de Paris (ISEP)",
+        "degree":"Exchange Student",
+        "graduated":"Semester Fall 2013",
+        "description":"ISEP is a French grandes écoles located in Paris, France. It specializes in electronics, telecommunication and computer science. During the exchange student period, in Software Engineer track of graduate level, studied Advaced Algorithmics, Languages and Compilation, Security, and Formar Approaches."
+      },
+      {
+        "school":"T Academy (SK Planet)", 
+        "degree":"Course of iPhone Application Development",
+        "graduated":"From Dec 2013 to Feb 2014",
+        "description":"T Academy is free education institution of SK Planet, the subsidiary of SK Telecom, development O2O Commerce platfrom and digital content business. Course is consist of 8 week curriculum, including basis Objective-C language education, iOS Application development knowledge, and project with Planner, Designer, Mobile Application Developer (Android, iOS) and Backend programmer. The development outcome is 300 Bowling application."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
+        "company":"Gamevil Com2us Platform",
         "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"September 2016 - Present",
+        "description":"분할 : split-off  // 하이브란 무엇인지에 대한 것과 간단한 기능들에 대한 설명이 적혀있어야 할 듯 하다. HIVE SDK v1, v4 둘다 개발하고 있고 유니티 플러그인도 개발하고 있음. // 문의 대응도 하고 있음 // 신규 피쳐 개발 및 버그 수정 등을 하고 있고 짬짬히 iOS 신 기능에 대한 리서치도 하고 있음"
       },
       {
-        "company":"Super Cool Studio",
+        "company":"Com2us",
         "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"December 2015 - September 2016",
+        "description":"플랫폼개발팀은 컴투스와 게임빌이 공통으로 사용하는 플러그인을 개발하는 곳임. HIVE SDK v1 유지보수 및 개발 진행 // 문의 대응 진행 // 유니티 도 공부함 // objc 기반으로 공부하고 잇음"
+      },
+      {
+        "company":"SK planet",
+        "title":"Internship",
+        "years":"June 2015 - August 2015",
+        "description":"Team OCB Development. 인턴십 진행함. OCB Manage 하는 관리 사이트를 개발하였다. 일 만건 이상의 데이터를 분석해서 도표화 하는 시스템. Spring framework를 사용하였음. "
+      },
+      {
+        "company":"Club Nexters",
+        "title":"Application Developer",
+        "years":"December 2012 - February 2014",
+        "description":"http://teamnexters.com/ 앱 개발에 관심있는 기획자 / 디자이너 / 개발자가 모여서 활동하는 동아리. 2기 개발자로 약 2년간 활동하면서 1년에 2개의 프로젝트에 참여하여 활동하는 곳임. "
+      },
+      {
+        "company":"IGRUS (Inha Group of Research Unix Security)",
+        "title":"Application Developer",
+        "years":"December 2012 - February 2014",
+        "description":"학교 내 학과 동아리. 전반적인 보안에 대한 기초를 공부하고 다양한 세미나에 참여하고 모의 해킹 대회에 참가하였다. 리버싱 엔지니어링, 네트워크 해킹, 포렌식, 웹해킹, 암호학에 기초에 대해 공부하였으며, 이는 이후 개발자로써 살아가는데 큰 도움이 되고 있다. "
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"iOS Application Development (Objective-C)",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
+        "name":"iOS Application Development (Swift)",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Android Development(Java)",
+        "level":"50%"
+      },
+      {
+        "name":"Unity 3d",
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Money Calculate Simulation (iOS)",
+        "category":"2019년 1월 업로드 되고 현재 다운로드 가능",
+        "image":"money_calculate_simulation.png",
+        "url":"https://itunes.apple.com/kr/app//id1455100744?mt=8",
+        "git":"https://github.com/ICoi/PayMoney_Korea"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"동네 탐험 (Android) ",
+        "category":"(offline now) .... 공모전 참여용이었음.",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/ICoi/ExploreTheTown"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"300 Bowling (iOS) ",
+        "category":"(offline now) .... 2014년 2월 ~ 2015년 2월 1년간 약 1,000 다운로드 이상",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/ICoi/Bowling300"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"다함께 복불복 (Cocos2d-x)",
+        "category":"(offline now) 현재 마켓에서는 내려감.. 2013년 3월쯤 업로드 되었었음",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":""
       }
     ]
   },
